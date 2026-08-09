@@ -1,0 +1,26 @@
+# Build output
+/build/
+/build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Object files
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Test binaries
+*_test
+
+# Temporary files
+*.tmp
+*.swp
+*~
